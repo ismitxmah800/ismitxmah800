@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm ismitxmah800
 
-<!--
-**ismitxmah800/ismitxmah800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥊 🏑 🎷 A geek in testing 🥊 🏑 🎷
 
-Here are some ideas to get you started:
+## About Me
+🎮 🎹 Addicted to developer relations 🎮 🎹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎯 🌍 🎽 Looking to contribute to content creation 🎯 🌍 🎽
+
+### Fun Facts
+🏏 🏏 Looking to collaborate on tech gadgets 🏏 🏏
+
+---
+🎯 💡 🎱 🎺 🚣 Thanks for visiting my profile! 🥊 🚣 🏑 🎣 🌈
